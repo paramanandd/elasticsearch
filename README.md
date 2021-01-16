@@ -27,6 +27,10 @@
 
 7. Use the `IP` provided by apply command to access the elasticsearch home page for installation
 
+i.e
+for Kibana
+> http://IP:5601
+
 **Note:**
 ```
 1. The resources created are for aws account in us-east reagion, if you make the change please consider using proper ami.
